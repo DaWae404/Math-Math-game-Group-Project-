@@ -1,0 +1,27 @@
+Instructions for playing Math - Match (Multiplying Easy) Game:-
+
+1. Download and extract the zip file provided in one folder.
+
+2. You can choose between these options:
+
+	a. Open MARS from the game folder we've provided. (Easiest way to open the game files) Or,
+
+	b. Open MARS on your computer (We recommend installing MARS if you don't have it. Link - 	https://dpetersanderson.github.io/ ) 
+
+3. In MARS, Go to 'File' at top most right and click on 'Open'.
+
+4. Go to the directory you have extracted your game on and open main.asm (If you opened MARS from the zip file we've provided, it is going to show you the game folder first thing already) .
+
+5. Do the same process for display.asm, check.asm, gamelogic.asm
+
+6. Once all the files are opened, go to main.asm and click on 'Assemble' (the tool icon)
+
+7. After assembling, click on 'Run' (The play icon)
+
+8. You will see the game opening and running in your Output (Run I/O) with the welcome message and the play board with instructions.
+
+9. Flip 2 cards to see if you've found a match, if you find a match, the board will have the matched cards revealed.
+
+10. Continue flipping the cards and keep finding matches until you reveal the whole board to win the game.
+
+11. Enjoy and thank you for playing!!!!!!!
